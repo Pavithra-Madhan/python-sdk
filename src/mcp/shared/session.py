@@ -526,3 +526,4 @@ class BaseSession(
     ) -> None:
         """A generic handler for incoming messages. Overwritten by subclasses."""
         pass  # pragma: no cover
+ 
